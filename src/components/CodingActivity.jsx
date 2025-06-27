@@ -82,7 +82,7 @@ export default function CodingActivity() {
             >
               <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbYQVq17d3AJTeHVrSidugpEx_LUhlYeO5DA&s" alt="CodeChef" className="h-16 w-16 mb-4" />
               <h3 className="text-xl font-semibold mb-2">CodeChef</h3>
-              <p className="text-gray-600 text-center">3★ Rating (Max 1682)</p>
+              <p className="text-gray-600 text-center">3★ Rating (Max 1735)</p>
             </a>
           </div>
         </div>

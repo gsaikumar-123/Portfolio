@@ -1,6 +1,6 @@
 import linkedinLogo from '../assets/linkedin.png';
 import githubLogo from '../assets/github.png';
-import resume from '../assets/MyResume.pdf';
+import resume from '../assets/Resume.pdf';
 
 export default function Profile() {
   return (
@@ -25,7 +25,7 @@ export default function Profile() {
             onClick={() => window.open(resume, '_blank')}
             className="px-6 py-3 rounded-full border border-gray-800 text-gray-800 font-semibold hover:bg-gray-800 hover:text-white transition-all"
           >
-            Download CV
+            My Resume
           </button>
           <button
             onClick={() => document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' })}
