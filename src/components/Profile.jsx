@@ -1,6 +1,6 @@
 import linkedinLogo from '../assets/linkedin.png';
 import githubLogo from '../assets/github.png';
-import resume from '../assets/Resume.pdf';
+import resume from '../assets/prompts.pdf';
 
 export default function Profile() {
   return (
